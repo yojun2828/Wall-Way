@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e360272b660c31746875f7aa5bb6010e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallCountText: {fileID: 5560419133997143713, guid: b00d5c72e3faaed44ae2f5cedf610bf1, type: 3}
+  - turnText: {fileID: 4543643343368063323, guid: 582e6e91c014a2c43b07ee735e4231a5, type: 3}
+  - wallDirectionText: {fileID: 3539769609480183920, guid: 8eb8dfedc3361af46a55114f0ef24079, type: 3}
+  - wallPreviewPrefab: {fileID: 2434557546019665564, guid: d2747d7f3d9068d4fa279ef43e27633e, type: 3}
+  - warningText: {fileID: 5873510605858753749, guid: 0649a3feaa34db646ba27a784be868f5, type: 3}
+  - victoryPanel: {fileID: 8752562877549344837, guid: 3b7c4a5ac64683341969eaf63e165bd8, type: 3}
+  - victoryText: {fileID: 5873510605858753749, guid: 0649a3feaa34db646ba27a784be868f5, type: 3}
+  - tilePrefab: {fileID: 3105436286796642123, guid: e174fcbc9f6119f4c9eac580f5b5078d, type: 3}
+  - PlayerPrefab1: {fileID: 944393575781270572, guid: 5a8848b161806ec449734bf119b02a8a, type: 3}
+  - PlayerPrefab2: {fileID: 944393575781270572, guid: f7374116f94a751449e00a8d05d1615b, type: 3}
+  - wallPrefab: {fileID: 8420905559740553951, guid: 0649a3feaa34db646ba27a784be868f5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
